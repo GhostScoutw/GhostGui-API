@@ -25,18 +25,18 @@ With it, you will be able to create, color, move, rotate, resize, edit and delet
 ## Color Tool
 ![image](https://github.com/user-attachments/assets/f5f6333b-4baa-4b3e-af5d-41bbe29b658c)
 
-By left clicking an existing window with this tool, you will replace that window's background with glass panes of the respective color based on the dye selected, which can be cycled through by right clicking.
+By left clicking an existing window with the color tool, you will replace that window's background with glass panes of the respective color of the dye selected, which can be cycled through by right clicking.
 ![image](https://github.com/user-attachments/assets/a4034acd-8414-4722-baf2-d49da13b4719)
 
 
 ## Move Tool
 ![image](https://github.com/user-attachments/assets/47e8a837-1e0e-4abf-8591-7e5020978e16)
 
-By left clicking an existing window with this tool, you will make the selected window face your position.
+By left clicking an existing window with the move tool, you will make the selected window face your position.
 
 ![image](https://github.com/user-attachments/assets/ed31456f-c162-4c6f-8597-b67f1c05f865)
 
-By right clicking an existing window with this tool, you will move the selected window to your cursor position.
+By right clicking an existing window with the move tool, you will move the selected window to your cursor position.
 ![image](https://github.com/user-attachments/assets/e4568d4c-e335-4182-8589-44d0e64429c2)
 
 >[!TIP]
@@ -61,7 +61,7 @@ Left click a window to decrease its size, and right click to increase it.
 ## Anchor Tool
 ![image](https://github.com/user-attachments/assets/d6b8c59d-04ca-46ad-a24d-5da75f22d8e3)
 
-Right click to summon an **Anchor Point**, which will be the center point of your layout and serve as a reference point for the player's position. Its displayed as a bubble particle arrow on the ground. Only 1 **Anchor point** may exist at once.
+Right click with the anchor tool to summon an **Anchor Point**, which will be the center point of your layout and serve as a reference point for the player's position. Its displayed as a bubble particle arrow on the ground. Only 1 **Anchor point** may exist at once.
 
 Left click to delete the existing one.
 
@@ -81,7 +81,7 @@ Left click to create the selected window type at the cursor's position.
 ## Delete Tool
 ![image](https://github.com/user-attachments/assets/094608ef-bc4b-4f3d-a3a7-8cec261e0078)
 
-Right click to cycle between deletion types, the 2 being for deleting the window entirely, and the other for deleting only its contents.
+Right click the deleate tool to cycle between deletion types, the 2 being for deleting the window entirely, and the other for deleting only its contents.
 Left click to apply the deletion type to the window you are facing.
 
 # Custom Functions
