@@ -81,7 +81,7 @@ Left click to create the selected window type at the cursor's position.
 ## Delete Tool
 ![image](https://github.com/user-attachments/assets/094608ef-bc4b-4f3d-a3a7-8cec261e0078)
 
-Right click the deleate tool to cycle between deletion types, the 2 being for deleting the window entirely, and the other for deleting only its contents.
+Right click the delete tool to cycle between deletion types, the 2 being for deleting the window entirely, and the other for deleting only its contents.
 Left click to apply the deletion type to the window you are facing.
 
 # Custom Functions
